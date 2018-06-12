@@ -1,22 +1,24 @@
-[
-    {
-        "Title" : "Américain",
-        "ImageName" : "americain@x32"
-    },
-    {
-        "Title" : "Hamberger",
-        "ImageName" : "hamberger@x32"
-    },
-    {
-        "Title" : "Boisson Froide",
-        "ImageName" : "drink_cold@x32"
-    },
-    {
-        "Title" : "Boisson Chaude",
-        "ImageName" : "drink_hot@x32"
-    },
-    {
-        "Title" : "Alcool",
-        "ImageName" : "alcool@x32"
-    }
-]
+{
+    "cell":[
+        {
+            "Title" : "Américain",
+            "ImageName" : "americain@x32"
+        },
+        {
+            "Title" : "Hamberger",
+            "ImageName" : "hamberger@x32"
+        },
+        {
+            "Title" : "Boisson Froide",
+            "ImageName" : "drink_cold@x32"
+        },
+        {
+            "Title" : "Boisson Chaude",
+            "ImageName" : "drink_hot@x32"
+        },
+        {
+            "Title" : "Alcool",
+            "ImageName" : "alcool@x32"
+        }
+    ]
+}
