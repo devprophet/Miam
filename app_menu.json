@@ -1,10 +1,10 @@
 [
     {
-        "Title" : "Mon titre",
-        "ImageName" : "Mon image ici"
+        "Title" : "Américain",
+        "ImageName" : "americain@x32"
     },
     {
-        "Title" : "Mon autre titre",
-        "ImageName" : "Mon autre image ici"
+        "Title" : "Hamberger",
+        "ImageName" : "hamberger@x32"
     }
 ]
